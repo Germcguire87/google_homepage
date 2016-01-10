@@ -1,0 +1,80 @@
+
+/*Gerard McGuire Google page css
+	for The Odin Project*/
+html, body {
+    margin: 0;
+    padding: 0;
+}
+#header li{
+	display: inline;
+	padding: 10px;
+
+}
+a {
+	text-decoration: none;
+	color: #6A6A6A;
+}
+#header{
+	text-align: right;
+
+
+
+}
+li img{
+	 height: 20px;
+	 vertical-align: middle;
+
+	
+
+}
+
+
+#search_cluster{
+	margin-top: 60px;
+
+
+
+}
+#footer{
+	position: fixed;
+	bottom: 0px;
+	left: 0px;
+	background: #F4F4F4;
+	height: 40px;
+	width: 100%;
+	line-height: 40px;
+}
+#footer li{
+
+	display: inline;
+	padding: 10pt;
+}
+#l_footer{
+	float: left;
+	margin: 0;
+
+}
+
+#r_footer{
+	float: right;
+	margin: 0;
+
+
+}
+.s_bar{
+	height: 35px;
+	width: 450px;
+
+}
+input[type="button"] {
+	margin-right: 10px;
+	margin-top: 25px;
+	padding: 10px 12px;
+	border: 0px;
+	font-size: 11px;
+	color: #808080;
+	background: #f5f5f5;
+	font-weight: bold;
+	-webkit-border-radius: 2px;
+		border-radius: 2px;
+}
